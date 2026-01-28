@@ -3,8 +3,6 @@
 
 I'm Jakub, a self-taught machine learning enthusiast with a sound engineering background.
 
-I explore novel architectures, tokenization methods, and representation learning 
-
 ## Tools
 
 - Python • PyTorch • NumPy • PyQt
